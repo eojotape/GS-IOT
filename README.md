@@ -2,9 +2,9 @@
 # ⚠️ Alerta Climático em Situações de Apagão
 
 # Equipe
-João Pedro de Albuquerque OliveiraRM:551579
-Matheus Augusto Santos RegoRM:551466
-Pedro Augusto Carneiro Barone Bomfim RM:99781
+- João Pedro de Albuquerque Oliveira RM:551579
+- Matheus Augusto Santos Rego RM:551466
+- Pedro Augusto Carneiro Barone Bomfim RM:99781
 
 ## 🌍 Problema
 
