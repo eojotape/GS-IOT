@@ -1,6 +1,11 @@
 # GS-IOT
 # ⚠️ Alerta Climático em Situações de Apagão
 
+#Equipe
+João Pedro de Albuquerque OliveiraRM:551579
+Matheus Augusto Santos RegoRM:551466
+Pedro Augusto Carneiro Barone Bomfim RM:99781
+
 ## 🌍 Problema
 
 Em muitas regiões, eventos climáticos extremos como enchentes, deslizamentos e tempestades severas frequentemente causam **interrupções no fornecimento de energia elétrica**. Nessas situações, a comunicação e o pedido de ajuda se tornam extremamente difíceis — especialmente em locais escuros ou de difícil acesso.
@@ -46,7 +51,3 @@ pip install mediapipe opencv-python
 # Execute o script principal
 python alerta_climatico.py
 
-
-João Pedro de Albuquerque OliveiraRM:551579
-Matheus Augusto Santos RegoRM:551466
-Pedro Augusto Carneiro Barone Bomfim RM:99781
