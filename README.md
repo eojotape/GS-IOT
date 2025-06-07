@@ -27,7 +27,7 @@ Este sistema pode ser útil para:
 
 ## 📹 Demonstração
 
-👉 [Clique aqui para ver o vídeo demonstrativo](https://youtu.be/SEU-LINK-AQUI) *(até 3 minutos)*
+👉 [Clique aqui para ver o vídeo demonstrativo](https://youtu.be/UOV4MCvZLlk) 
 
 O vídeo apresenta:
 - A motivação e importância da solução.
