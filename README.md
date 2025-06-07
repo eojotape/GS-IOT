@@ -45,3 +45,8 @@ pip install mediapipe opencv-python
 
 # Execute o script principal
 python alerta_climatico.py
+
+
+João Pedro de Albuquerque OliveiraRM:551579
+Matheus Augusto Santos RegoRM:551466
+Pedro Augusto Carneiro Barone Bomfim RM:99781
